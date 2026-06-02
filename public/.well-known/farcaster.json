@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "REPLACE_WITH_YOUR_HEADER",
-    "payload": "REPLACE_WITH_YOUR_PAYLOAD",
-    "signature": "REPLACE_WITH_YOUR_SIGNATURE"
+    "header": "eyJmaWQiOjUzMTQ2MCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYzOTU4OWFGMjY2QzUxOTI0YmM5OTk0RjcwMzRhODdjMTFFNzE4RDcifQ",
+    "payload": "eyJkb21haW4iOiJ6b3JhbWludC52ZXJjZWwuYXBwIn0",
+    "signature": "G5ONkKLuZwOZRdjcWwPr694BA8R50MXHKLfTMaADrUFdza8/BtsfUSnfPdsAyB1By19dgnFbS+GXNJjmO4jljRw="
   },
   "miniapp": {
     "version": "1",
@@ -14,8 +14,8 @@
     "splashBackgroundColor": "#0a0a0f",
     "buttonTitle": "Open ZoraMint",
     "subtitle": "Swap Zora Creator Coins",
-    "tagline": "Creator coins on Base simplified",
-    "description": "Discover and swap Zora creator coins on Base. See Farcaster profiles of creators live prices market cap and holders. Powered by 0x for best swap rates with only 0.3 percent platform fee",
+    "tagline": "Creator coins on Base",
+    "description": "Swap Zora creator coins on Base. See Farcaster profiles, live prices, market cap, holders. 0.3% fee powered by 0x.",
     "primaryCategory": "finance",
     "tags": ["zora", "swap", "base", "creator", "defi"],
     "screenshotUrls": [
@@ -23,8 +23,8 @@
       "https://zoramint.vercel.app/screenshots/screenshot-2.png"
     ],
     "heroImageUrl": "https://zoramint.vercel.app/og-image.png",
-    "ogTitle": "ZoraMint Swap Zora Creator Coins on Base",
-    "ogDescription": "Discover and swap Zora creator coins on Base with Farcaster creator profiles live prices and 0.3 percent fee powered by 0x",
+    "ogTitle": "ZoraMint: Swap Creator Coins",
+    "ogDescription": "Swap Zora creator coins on Base with 0.3% fee",
     "ogImageUrl": "https://zoramint.vercel.app/og-image.png",
     "webhookUrl": "https://zoramint.vercel.app/api/webhook",
     "castShareUrl": "https://zoramint.vercel.app/share",
