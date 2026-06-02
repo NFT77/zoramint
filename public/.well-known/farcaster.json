@@ -24,7 +24,7 @@
     ],
     "heroImageUrl": "https://zoramint.vercel.app/og-image.png",
     "ogTitle": "ZoraMint: Swap Creator Coins",
-    "ogDescription": "Swap Zora creator coins on Base. Live prices & Farcaster profiles.",
+    "ogDescription": "Swap Zora creator coins on Base. Live prices and Farcaster profiles.",
     "ogImageUrl": "https://zoramint.vercel.app/og-image.png",
     "webhookUrl": "https://zoramint.vercel.app/api/webhook",
     "castShareUrl": "https://zoramint.vercel.app/share",
