@@ -15,7 +15,7 @@
     "buttonTitle": "Open ZoraMint",
     "subtitle": "Swap Zora Creator Coins",
     "tagline": "Creator coins on Base",
-    "description": "Swap Zora creator coins on Base. See Farcaster profiles, live prices, market cap, holders. 0.3% fee powered by 0x.",
+    "description": "Swap Zora creator coins on Base. See Farcaster profiles, live prices, market cap, holders. Best rates powered by 0x.",
     "primaryCategory": "finance",
     "tags": ["zora", "swap", "base", "creator", "defi"],
     "screenshotUrls": [
@@ -24,7 +24,7 @@
     ],
     "heroImageUrl": "https://zoramint.vercel.app/og-image.png",
     "ogTitle": "ZoraMint: Swap Creator Coins",
-    "ogDescription": "Swap Zora creator coins on Base with 0.3% fee",
+    "ogDescription": "Swap Zora creator coins on Base. Live prices & Farcaster profiles.",
     "ogImageUrl": "https://zoramint.vercel.app/og-image.png",
     "webhookUrl": "https://zoramint.vercel.app/api/webhook",
     "castShareUrl": "https://zoramint.vercel.app/share",
