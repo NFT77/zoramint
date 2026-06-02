@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B3FE4"/>
+      <stop offset="100%" style="stop-color:#E44FC0"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="#0a0a0f"/>
+  <text x="30" y="48" font-family="Arial Black,sans-serif" font-size="22" fill="white">ZoraMint</text>
+  <rect x="16" y="70" width="358" height="52" rx="14" fill="rgba(255,255,255,0.05)" stroke="rgba(123,63,228,0.3)" stroke-width="1"/>
+  <text x="195" y="102" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.3)" text-anchor="middle">Search creator coins...</text>
+  <rect x="16" y="140" width="82" height="34" rx="17" fill="url(#g)"/>
+  <text x="57" y="162" font-family="Arial,sans-serif" font-size="12" fill="white" text-anchor="middle">⭐ Featured</text>
+  <rect x="108" y="140" width="90" height="34" rx="17" fill="rgba(255,255,255,0.07)"/>
+  <text x="153" y="162" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.5)" text-anchor="middle">🔥 Trending</text>
+  <rect x="16" y="196" width="358" height="220" rx="20" fill="rgba(123,63,228,0.08)" stroke="rgba(123,63,228,0.2)" stroke-width="1"/>
+  <text x="36" y="228" font-family="Arial,sans-serif" font-size="11" fill="#a78bfa">⭐ Featured by ZoraMint</text>
+  <rect x="36" y="242" width="54" height="54" rx="14" fill="url(#g)"/>
+  <text x="63" y="278" font-family="Arial Black,sans-serif" font-size="30" fill="white" text-anchor="middle">Z</text>
+  <text x="106" y="265" font-family="Arial Black,sans-serif" font-size="18" fill="white">CreatorToken</text>
+  <text x="106" y="285" font-family="Arial,sans-serif" font-size="13" fill="rgba(255,255,255,0.4)">$CREATE</text>
+  <text x="354" y="260" font-family="Arial Black,sans-serif" font-size="17" fill="white" text-anchor="end">$0.0042</text>
+  <text x="354" y="282" font-family="Arial,sans-serif" font-size="13" fill="#4ade80" text-anchor="end">▲ 12.5%</text>
+  <rect x="36" y="306" width="120" height="32" rx="10" fill="rgba(0,0,0,0.3)"/>
+  <text x="96" y="327" font-family="Arial,sans-serif" font-size="11" fill="rgba(255,255,255,0.5)" text-anchor="middle">Mkt Cap $420K</text>
+  <rect x="168" y="306" width="100" height="32" rx="10" fill="rgba(0,0,0,0.3)"/>
+  <text x="218" y="327" font-family="Arial,sans-serif" font-size="11" fill="rgba(255,255,255,0.5)" text-anchor="middle">1,234 holders</text>
+  <rect x="36" y="360" width="318" height="40" rx="12" fill="url(#g)"/>
+  <text x="195" y="386" font-family="Arial Black,sans-serif" font-size="15" fill="white" text-anchor="middle">🔄 Swap $CREATE</text>
+  <rect x="16" y="436" width="358" height="70" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="48" cy="471" r="20" fill="rgba(123,63,228,0.4)"/>
+  <text x="48" y="478" font-family="Arial Black,sans-serif" font-size="14" fill="white" text-anchor="middle">A</text>
+  <text x="80" y="466" font-family="Arial Black,sans-serif" font-size="14" fill="white">@creator_name</text>
+  <text x="80" y="484" font-family="Arial,sans-serif" font-size="11" fill="#a78bfa">⚡ Power Badge • 12.4K followers</text>
+</svg>

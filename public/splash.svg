@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#0f0a1f"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B3FE4"/>
+      <stop offset="100%" style="stop-color:#E44FC0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="15" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="180" r="120" fill="#7B3FE4" opacity="0.06"/>
+  <rect x="145" y="125" width="110" height="110" rx="28" fill="url(#logo)" filter="url(#glow)"/>
+  <text x="200" y="205" font-family="Arial Black, sans-serif" font-size="66" font-weight="900" fill="white" text-anchor="middle">Z</text>
+  <text x="200" y="280" font-family="Arial Black, sans-serif" font-size="28" font-weight="900" fill="white" text-anchor="middle">ZoraMint</text>
+  <text x="200" y="310" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.4)" text-anchor="middle">Creator Coins on Base</text>
+</svg>

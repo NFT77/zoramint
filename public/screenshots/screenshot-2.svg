@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B3FE4"/>
+      <stop offset="100%" style="stop-color:#E44FC0"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="#0a0a0f"/>
+  <rect x="0" y="0" width="390" height="844" fill="rgba(0,0,0,0.6)"/>
+  <rect x="0" y="280" width="390" height="564" rx="28" fill="#0d0d18" stroke="rgba(123,63,228,0.25)" stroke-width="1"/>
+  <rect x="165" y="268" width="60" height="6" rx="3" fill="rgba(255,255,255,0.2)"/>
+  <div/>
+  <circle cx="195" cy="338" r="24" fill="url(#g)"/>
+  <text x="195" y="346" font-family="Arial Black,sans-serif" font-size="18" fill="white" text-anchor="middle">Z</text>
+  <text x="195" y="386" font-family="Arial Black,sans-serif" font-size="20" fill="white" text-anchor="middle">Swap $CREATE</text>
+  <text x="195" y="406" font-family="Arial,sans-serif" font-size="13" fill="rgba(255,255,255,0.4)" text-anchor="middle">CreatorToken</text>
+  <rect x="20" y="428" width="350" height="82" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="36" y="452" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.4)">You pay</text>
+  <text x="354" y="476" font-family="Arial Black,sans-serif" font-size="32" fill="white" text-anchor="end">0.05</text>
+  <text x="36" y="496" font-family="Arial Black,sans-serif" font-size="18" fill="white">ETH  ▾</text>
+  <text x="354" y="498" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.3)" text-anchor="end">≈ $160.00</text>
+  <circle cx="195" cy="540" r="16" fill="url(#g)"/>
+  <text x="195" y="547" font-family="Arial,sans-serif" font-size="18" fill="white" text-anchor="middle">↓</text>
+  <rect x="20" y="566" width="350" height="82" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="36" y="590" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.4)">You receive</text>
+  <text x="354" y="614" font-family="Arial Black,sans-serif" font-size="32" fill="white" text-anchor="end">38,095</text>
+  <text x="36" y="634" font-family="Arial Black,sans-serif" font-size="18" fill="white">$CREATE  ▾</text>
+  <text x="354" y="636" font-family="Arial,sans-serif" font-size="12" fill="#4ade80" text-anchor="end">≈ $159.52</text>
+  <text x="36" y="680" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.3)">Slippage</text>
+  <rect x="240" y="666" width="52" height="28" rx="8" fill="url(#g)"/>
+  <text x="266" y="685" font-family="Arial Black,sans-serif" font-size="13" fill="white" text-anchor="middle">1%</text>
+  <rect x="300" y="666" width="70" height="28" rx="8" fill="rgba(255,255,255,0.07)"/>
+  <text x="335" y="685" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.4)" text-anchor="middle">Custom</text>
+  <rect x="20" y="720" width="350" height="56" rx="16" fill="url(#g)"/>
+  <text x="195" y="754" font-family="Arial Black,sans-serif" font-size="17" fill="white" text-anchor="middle">🔄 Swap 0.05 ETH → $CREATE</text>
+  <text x="195" y="800" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.25)" text-anchor="middle">⚡ 0x Protocol • 🟣 Zora • 0.3% fee</text>
+</svg>

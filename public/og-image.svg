@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="50%" style="stop-color:#0f0a1f"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B3FE4"/>
+      <stop offset="100%" style="stop-color:#E44FC0"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7B3FE4"/>
+      <stop offset="50%" style="stop-color:#E44FC0"/>
+      <stop offset="100%" style="stop-color:#3F8FE4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Glow orbs -->
+  <circle cx="200" cy="200" r="250" fill="#7B3FE4" opacity="0.08"/>
+  <circle cx="1000" cy="430" r="200" fill="#E44FC0" opacity="0.08"/>
+  <circle cx="600" cy="600" r="150" fill="#3F8FE4" opacity="0.06"/>
+
+  <!-- Grid lines subtle -->
+  <g stroke="rgba(255,255,255,0.03)" stroke-width="1">
+    <line x1="0" y1="105" x2="1200" y2="105"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="525" x2="1200" y2="525"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+  </g>
+
+  <!-- Logo icon -->
+  <rect x="100" y="180" width="100" height="100" rx="24" fill="url(#grad1)" filter="url(#glow)"/>
+  <text x="150" y="255" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" fill="white" text-anchor="middle">Z</text>
+
+  <!-- Main title -->
+  <text x="230" y="235" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="url(#grad2)">ZoraMint</text>
+
+  <!-- Subtitle -->
+  <text x="100" y="340" font-family="Arial, sans-serif" font-size="32" fill="rgba(255,255,255,0.7)">Swap Zora Creator Coins on Base</text>
+
+  <!-- Feature pills -->
+  <g>
+    <!-- Pill 1 -->
+    <rect x="100" y="390" width="200" height="44" rx="22" fill="rgba(123,63,228,0.2)" stroke="rgba(123,63,228,0.4)" stroke-width="1"/>
+    <text x="200" y="418" font-family="Arial, sans-serif" font-size="18" fill="#a78bfa" text-anchor="middle">🟣 Zora Coins</text>
+
+    <!-- Pill 2 -->
+    <rect x="320" y="390" width="220" height="44" rx="22" fill="rgba(228,79,192,0.2)" stroke="rgba(228,79,192,0.4)" stroke-width="1"/>
+    <text x="430" y="418" font-family="Arial, sans-serif" font-size="18" fill="#f0abfc" text-anchor="middle">💜 Farcaster Profiles</text>
+
+    <!-- Pill 3 -->
+    <rect x="560" y="390" width="180" height="44" rx="22" fill="rgba(63,143,228,0.2)" stroke="rgba(63,143,228,0.4)" stroke-width="1"/>
+    <text x="650" y="418" font-family="Arial, sans-serif" font-size="18" fill="#93c5fd" text-anchor="middle">⚡ 0x Swaps</text>
+
+    <!-- Pill 4 -->
+    <rect x="760" y="390" width="160" height="44" rx="22" fill="rgba(52,211,153,0.2)" stroke="rgba(52,211,153,0.4)" stroke-width="1"/>
+    <text x="840" y="418" font-family="Arial, sans-serif" font-size="18" fill="#6ee7b7" text-anchor="middle">💎 0.3% fee</text>
+  </g>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="rgba(123,63,228,0.08)" stroke="none"/>
+  <text x="600" y="608" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.3)" text-anchor="middle">zoramint.vercel.app • Powered by Zora + 0x + Base</text>
+</svg>

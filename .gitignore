@@ -1,0 +1,90 @@
+.next/
+node_modules/
+.env.local
+.env
+*.log
+.DS_Store
+out/
+build/
+dist/
+SETUP.md
+README.md
+PROJECT_NAME.md
+
+# ==================== DEPENDENCIES ====================
+node_modules/
+.pnpm-store/
+
+# ==================== ENVIRONMENT VARIABLES (RAHASIA!) ====================
+.env
+.env*.local
+.env*.development
+.env*.production
+*.env
+
+# ==================== NEXT.JS BUILD OUTPUT ====================
+.next/
+out/
+build/
+dist/
+
+# ==================== LOGS ====================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==================== OS GENERATED FILES ====================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# ==================== IDE & EDITOR ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.zed/
+.project
+.classpath
+
+# ==================== VERCEL ====================
+.vercel/
+.vercel_cache/
+*.tsbuildinfo
+next-env.d.ts
+
+# ==================== TESTING ====================
+coverage/
+.nyc_output/
+.cypress/
+playwright-report/
+
+# ==================== TEMPORARY FILES ====================
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+*.log
+*.pid
+*.seed
+
+# ==================== MISC ====================
+*.pem
+*.p8
+*.key
+*.crt
+.DS_Store
